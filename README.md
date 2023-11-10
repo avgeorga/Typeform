@@ -99,4 +99,4 @@ Since I don't have a proper environment, I draw the simple architecture of the s
 ##### AWS API Gateway: It would provide data for the next exercise steps.
 
 ### Jobs Scheduled Exercise
-Since I have been using Airflow in the last projects, I created a simple [DAG](src/DAGs/my_dag.py) to carry out the exercise.
+Since I have been using Airflow in the last projects, I created a simple [DAG](src/dags/my_dag.py) to carry out the exercise.
