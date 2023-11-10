@@ -1,0 +1,6 @@
+datetime
+pandas==2.1.1
+request
+json
+os
+awswrangler
