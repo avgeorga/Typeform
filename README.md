@@ -3,7 +3,7 @@ I built two simple [ETL Form](src/etl_form.py) and [ETL Form Events](src/etl_for
 
 
 ### SQL queries Exercise
-To answer the questions, I decided to load the data into Sqlite. please see below the tables DDL.
+To answer the questions, I decided to load the data into Sqlite (src/src-data/Typeform.db). please see below the tables DDL.
 
 #### DDL Form table: [form.dll](src/ddl/ddl_form.sql)
 ```sql
